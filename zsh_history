@@ -1,0 +1,916 @@
+: 1591892940:0;clear
+: 1591892942:0;exit
+: 1591893025:0;node main.js
+: 1591894016:0;cat ../xaudio/src/sever.js
+: 1591894152:0;node main.js
+: 1591894485:0;cat ../altart/index.js
+: 1591894602:0;node main.js
+: 1591894687:0;cleaer
+: 1591894690:0;cleer
+: 1591894694:0;clear
+: 1591894844:0;node main.js
+: 1591894942:0;sudo node main.js
+: 1591921723:0;flatpak install flathub com.endlessnetwork.aqueducts
+: 1591921931:0;flatpak run com.endlessnetwork.aqueducts
+: 1591956938:0;sudo apt upadate
+: 1591956942:0;sudo apt update
+: 1591956963:0;clear
+: 1591958053:0;sudo apt install ./Downloads/dropbox_2020.03.04_amd64.deb
+: 1592003947:0;sudo reboot
+: 1592244844:0;cat senha
+: 1592312753:0;sudo apt update
+: 1592312781:0;apt list --upgradable
+: 1592312802:0;sudo apt upgrade
+: 1592417697:0;sudo apt install ./Downloads/GBPCEFwr64.deb
+: 1592417732:0;sudo apt purge warsaw
+: 1592417797:0;clear
+: 1592417812:0;sudo apt install ./Downloads/GBPCEFwr64.deb
+: 1592417876:0;sudo apt install python3-gpgme python3-gpg
+: 1592417915:0;sudo apt install python3-gpg python3-gpg
+: 1592417930:0;clear
+: 1592418020:0;cat senha
+: 1592505030:0;sudo apt update
+: 1592505051:0;apt list --upgradable
+: 1592505097:0;sudo apt upg
+: 1592505100:0;sudo apt upgr
+: 1592505102:0;sudo apt upgrade
+: 1592505401:0;clear
+: 1592610399:0;screenfetch -t
+: 1592610979:0;sudo apt update
+: 1592611086:0;cd Downloads
+: 1592611090:0;ls
+: 1592611124:0;rm ./GBPCEFwr64.deb
+: 1592611138:0;rm dropbox_2020.03.04_amd64.deb
+: 1592611163:0;rm 17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x86FRE_pt-br.iso
+: 1592611168:0;clear
+: 1592611171:0;ls
+: 1592611182:0;zip tsetup.2.1.12.tar.xz
+: 1592611207:0;xz tsetup.2.1.12.tar.xz
+: 1592611220:0;xz --help
+: 1592611243:0;xz -d tsetup.2.1.12.tar.xz
+: 1592611253:0;ls
+: 1592611284:0;clear
+: 1592611323:0;unzip tsetup.2.1.12.tar
+: 1592611335:0;tar tsetup.2.1.12.tar
+: 1592611350:0;tar --help
+: 1592611366:0;tar --help | less
+: 1592611392:0;tar -xf tsetup.2.1.12.tar
+: 1592611396:0;clear
+: 1592611397:0;ls]
+: 1592611399:0;ls
+: 1592611417:0;cd Telegram
+: 1592611420:0;ls
+: 1592611431:0;cd Telegram
+: 1592611449:0;./Updater
+: 1592611543:0;cd Downloads
+: 1592611555:0;rm -r ./Telegram
+: 1592611558:0;clear
+: 1592611559:0;ls
+: 1592611566:0;rm Rebels-1.8_en.apk
+: 1592611578:0;rm screen.png
+: 1592611586:0;rm rufus-3.10p.exe
+: 1592611589:0;ls
+: 1592611608:0;rm debian-10.4.0-amd64-netinst.iso
+: 1592611642:0;rm Minecraft.Story.Mode.Episode.8.part*
+: 1592611650:0;ls
+: 1592611694:0;./LAPUMiA.Org\ -\ Sonic\ -\ O\ Filme\ 2020\ 5.1\ \(720p-Mp4\)
+: 1592611699:0;ls
+: 1592611704:0;./Sonic.O.Filme.2020.720p.WEB-DL.6CH.x264.DUBLADO-LAPUMiA.mp4
+: 1592611714:0;vlc ./Sonic.O.Filme.2020.720p.WEB-DL.6CH.x264.DUBLADO-LAPUMiA.mp4
+: 1592617584:0;rm Sonic.O.Filme.2020.720p.WEB-DL.6CH.x264.DUBLADO-LAPUMiA.mp4
+: 1592617592:0;cd ..
+: 1592617599:0;rm LAPUMiA.Org\ -\ Sonic\ -\ O\ Filme\ 2020\ 5.1\ \(720p-Mp4\)
+: 1592617607:0;rm -r LAPUMiA.Org\ -\ Sonic\ -\ O\ Filme\ 2020\ 5.1\ \(720p-Mp4\)
+: 1592617613:0;clear
+: 1592617621:0;ls
+: 1592617641:0;rm tsetup.2.1.12.tar
+: 1592617648:0;clear
+: 1592617755:0;ls
+: 1592617812:0;date --help | less
+: 1592618031:0;date "%q"
+: 1592618036:0;date "%Q"
+: 1592618124:0;cat ~/.config/i3/i3blocks.conf | less 
+: 1592618141:0;date "%p"
+: 1592618145:0;cat ~/.config/i3/i3blocks.conf | less 
+: 1592618162:0;date "+%p"
+: 1592618170:0;clear
+: 1592618188:0;telegram-desktop
+: 1592618519:0;apt search telegram
+: 1592618569:0;sudo apt purge telegram-desktop
+: 1592618614:0;sudo apt autoremove
+: 1592618631:0;apt search telegram
+: 1592618820:0;flatpak install flathub org.telegram.desktop
+: 1592705602:0;alsamixer
+: 1592705640:0;cmatrix
+: 1592756840:0;clear
+: 1592756850:0;sudo apt update
+: 1592757091:0;apt list --upgradable
+: 1592792171:0;sudo apt update
+: 1592792204:0;apt --help
+: 1592792362:0;cmatrix
+: 1592792414:0;clear
+: 1592792428:0;vim rd.js
+: 1592846792:0;sudo apt update
+: 1592847555:0;	zdiff 
+: 1592847579:0;clear
+: 1592847590:0;j
+: 1592847604:0;clear
+: 1592849278:0;cmatrix
+: 1592924579:0;sudo apt update
+: 1592924598:0;apt list --upgradable
+: 1592924616:0;sudo apt upgrade
+: 1592924716:0;cmatrix
+: 1592968824:0;sudo apt upda
+: 1592968830:0;sudo apt update
+: 1592968863:0;sudo shutdown now
+: 1593012499:0;sudo apt update
+: 1593012993:0;cmatrix
+: 1593013376:0;cmatrix --help
+: 1593013411:0;cmatrix -l
+: 1593013449:0;cmatrix -h
+: 1593013522:0;cmatrix
+: 1593013629:0;apt details cmatrix
+: 1593013638:0;apt --help
+: 1593013657:0;apt show cmatrix
+: 1593013686:0;sudo apt install cmatrix-xfont
+: 1593013702:0;cmatrix -l
+: 1593013861:0;which-command .
+: 1593013905:0;1 x cvbnm,/ \cfvgbhnjmk,. tyuilç;sdfghj kl.;sd fghjkl;. t4y7u8iølç'[[ABCDE~~~89;/ bnm⃴�er5t6nyu8i,ko345tiloçpxfc vnm,g kl yjklç~]}⃴�\
+which-command . 7dsa1[[ABCDE~~~~~~~sa NBB[[ABCDE~~~~~ MNBFV2BC3DE~~7~8~~-~\
+
+: 1593013909:0;clear
+: 1593013925:0;sudo apt update
+: 1593013949:0;clear
+: 1593014201:0;exit
+: 1593014208:0;clear
+: 1593100125:0;sudo apt update
+: 1593100324:0;apt search vscode
+: 1593100332:0;apt search code
+: 1593100344:0;apt search code | less
+: 1593100429:0;clear
+: 1593100751:0;yarn start
+: 1593102107:0;clear
+: 1593102111:0;yarn start
+: 1593102387:0;clear
+: 1593102390:0;yarn start
+: 1593102788:0;clear
+: 1593102794:0;yarn start
+: 1593103705:0;clear
+: 1593104268:0;yarn
+: 1593104848:0;yarn start
+: 1593105011:0;clear
+: 1593105016:0;yarn start
+: 1593105312:0;cd code/xaudio
+: 1593105316:0;yarn start
+: 1593105390:0;cd code/xaudio
+: 1593105392:0;yarn start
+: 1593189542:0;sudxo
+: 1593189547:0;sudo apt update
+: 1593193717:0;cat senha
+: 1593322012:0;sudo apt update
+: 1593322069:0;flatpak --help
+: 1593322088:0;flatpak --help |less
+: 1593322114:0;flatpak update
+: 1593322675:0;sudo flatpak update
+: 1593323020:0;apt search gnome
+: 1593323030:0;apt search gnome | less
+: 1593323207:0;apt search gnome --instaled | less
+: 1593323227:0;man apt
+: 1593323257:0;man apt search
+: 1593323434:0;sudo apt remove gnome-bluetooth
+: 1593323509:0;sudo apt purge gnome-chess
+: 1593323681:0;sudo apt remove gnome-online-miners
+: 1593323710:0;sudo apt autoremove
+: 1593323973:0;sudo shutdown now
+: 1593411524:0;sudo apt update
+: 1593411566:0;sudo flatpak update
+: 1593487786:0;sudo apt update
+: 1593487831:0;clear
+: 1593487864:0;sudo flatpak update
+: 1593662957:0;sudo apt update
+: 1593663006:0;apt list --upgradable
+: 1593663048:0;sudo apt upgrade
+: 1593663088:0;sudo apt update
+: 1593663111:0;sudo apt upgrade
+: 1593663292:0;clear
+: 1593663295:0;sudo apt update
+: 1593663354:0;sudo flatpak update
+: 1593664850:0;vim ~/.config/i3/config
+: 1593664984:0;xset -dpms
+: 1593664991:0;xset --help
+: 1593665279:0;cmatrix
+: 1593731650:0;youtube-dl https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o /media/altart
+: 1593731692:0;youtube-dl -U
+: 1593731718:0;sudo youtube-dl -U
+: 1593731767:0;youtube-dl https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o /media/altart
+: 1593732011:0;youtube-dl -f webm https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o /media/altart/E5E8-141F
+: 1593732067:0;youtube-dl -f webm https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o /media/altart/E5E8-141F/Musi*.webm
+: 1593732162:0;youtube-dl -f webm https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o '/media/altart/E5E8-141F/%(title)s.f%(format_id)s.%(ext)s'
+: 1593732368:0;youtube-dl -f 'onlyaudio' https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o '/media/altart/E5E8-141F/%(title)s.f%(format_id)s.%(ext)s'
+: 1593732525:0;youtube-dl -F
+: 1593732558:0;youtube-dl -F https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ
+: 1593732589:0;ls
+: 1593732621:0;youtube-dl -f 'bestaudio' https://www.youtube.com/playlist\?list\=PLw4bJyoizwCUycYOtYYRaV1yq6BdA4ilJ -o '/media/altart/E5E8-141F/%(title)s.f%(format_id)s.%(ext)s'
+: 1593733462:0;cd /media/altart/E5E8-141F
+: 1593733471:0;find . -type f -iname "*.webm" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -ab 128k -ar 44100 -y "${FILE%.webm}.mp3";' _ '{}' \;
+: 1593733733:0;rm *.webm
+: 1593733756:0;cd ..
+: 1594133928:0;sudo apt update
+: 1594133950:0;apt list --upgradable
+: 1594133972:0;[
+: 1594133994:0;sudo apt upgrade
+: 1594134354:0;sudo flatpak update
+: 1594134934:0;sudo reboot
+: 1594317969:0;sudo apt update
+: 1594318032:0;apt list --upgradable
+: 1594318062:0;sudo apt upgrade
+: 1594318375:0;sudo flatpak update
+: 1594318667:0;sudo reboot
+: 1594394302:0;sudo apt update
+: 1594394324:0;apt list --upgradable
+: 1594394337:0;sudo apt upgrade
+: 1594394521:0;cat senha
+: 1594394926:0;sudo flatpak update
+: 1594507274:0;sudo apt update
+: 1594507310:0;apt list --upgradable
+: 1594507328:0;sudo apt upgrade
+: 1594507344:0;apt list --upgradable
+: 1594507350:0;sudo apt update
+: 1594507380:0;sudo apt upgrade
+: 1594507553:0;sudo flatpak update
+: 1594732206:0;sudo apt update
+: 1594732223:0;apt list --upgradable
+: 1594732230:0;sudo apt upgrade
+: 1594732300:0;clear
+: 1594732338:0;sudo flatpak update
+: 1594737177:0;cat senha
+: 1594780274:0;sudo apt update
+: 1594780297:0;apt list --upgradable
+: 1594780310:0;sudo apt upgrade
+: 1594780430:0;sudo reboot
+: 1595527089:0;vim ts.js
+: 1595527698:0;node ts.js
+: 1595527701:0;vim ts.js
+: 1595527717:0;node ts.js
+: 1595527720:0;vim ts.js
+: 1595527738:0;node ts.js
+: 1595527747:0;vim ts.js
+: 1595527756:0;node ts.js
+: 1595527772:0;vim ts.js
+: 1595528446:0;node ts.js
+: 1595528468:0;vim ts.js
+: 1595528562:0;node ts.js
+: 1595528598:0;clear
+: 1595543203:0;sudo apt install hd-probe
+: 1595543246:0;sudo apt install hw-probe
+: 1595543269:0;snap install hw-probe
+: 1595543278:0;sudo snap install hw-probe
+: 1595543388:0;sudo snap update
+: 1595543399:0;sudo snap help
+: 1595543497:0;sudo -E hw-probe -all -upload
+: 1595543560:0;snap help
+: 1595543590:0;sudo snap remove hw-probe
+: 1595543676:0;flatpak install flathub org.linux_hardware.hw-probe
+: 1595543994:0;sudo flatpak install flathub org.linux_hardware.hw-probe
+: 1595544376:0;sudo -E hw-probe -all -upload
+: 1595544462:0;sudo -E flatpak run org.linux_hardware.hw-probe -all -upload
+: 1595872998:0;sudo apt update
+: 1595873039:0;apt list --upgradable
+: 1595873064:0;sudo apt upgrade
+: 1595873721:0;( echo '# i dt'; ping 8.8.8.8 | perl -ne 'BEGIN { $|=1} next if /PING/; s/.*seq=([0-9]+).*time=([0-9]+).*/\1 \2/ && print') | tee /tmp/ping.vnl | vnl-filter --stream -p i,dt,di='diff(i)' | vnl-filter --stream --has di | feedgnuplot  --domain --stream --with 'linespoints pt 7 palette' --tuplesizeall 3 --ymin 0 --set 'cbrange [1:]' --xlabel "ping index" --ylabel "Response time (ms)" --title "ping 8.8.8.8 response times. Consecutive indices shown as colors"( echo '# i dt'; ping 8.8.8.8 | perl -ne 'BEGIN { $|=1} next if /PING/; s/.*seq=([0-9]+).*time=([0-9]+).*/\1 \2/ && print') | tee /tmp/ping.vnl | vnl-filter --stream -p i,dt,di='diff(i)' | vnl-filter --stream --has di | feedgnuplot  --domain --stream --with 'linespoints pt 7 palette' --tuplesizeall 3 --ymin 0 --set 'cbrange [1:]' --xlabel "ping index" --ylabel "Response time (ms)" --title "ping 8.8.8.8 response times. Consecutive indices shown as colors"
+: 1595873731:0;( echo '# i dt'; ping 8.8.8.8 | perl -ne 'BEGIN { $|=1} next if /PING/; s/.*seq=([0-9]+).*time=([0-9]+).*/\1 \2/ && print') | tee /tmp/ping.vnl | vnl-filter --stream -p i,dt,di='diff(i)' | vnl-filter --stream --has di | feedgnuplot  --domain --stream --with 'linespoints pt 7 palette' --tuplesizeall 3 --ymin 0 --set 'cbrange [1:]' --xlabel "ping index" --ylabel "Response time (ms)" --title "ping 8.8.8.8 response times. Consecutive indices shown as colors"
+: 1595873744:0;clear
+: 1595873825:0;cmatrix
+: 1595873831:0;screenfetch -t
+: 1596083579:0;ls /usr/local/share/applications/
+: 1596083585:0;ls /usr/local/share/
+: 1596083614:0;ls /usr/share/applications/
+: 1596083802:0;mv /home/altart/Downloads/blende/blender-2.83.3-linux64/blender.desktop /usr/share/applications/
+: 1596083817:0;sudo mv /home/altart/Downloads/blende/blender-2.83.3-linux64/blender.desktop /usr/share/applications/
+: 1596083931:0;ls /bin
+: 1596084362:0;echo $HERE
+: 1596084375:0;cd /
+: 1596084377:0;echo $HERE
+: 1596084428:0;cd ~
+: 1596084447:0;mv /home/altart/Downloads/blender /opt
+: 1596084454:0;sudo mv /home/altart/Downloads/blender /opt
+: 1596084723:0;cd /opt/blender
+: 1596084801:0;ln ./blender /bin/blender
+: 1596084809:0;sudo ln ./blender /bin/blender
+: 1596084857:0;blender
+: 1596084967:0;/opt/blender/blender
+: 1596085056:0;blender
+: 1596085094:0;blender | watch
+: 1596085319:0;sudo rm /bin/blender
+: 1596085369:0;sudo ln /opt/blender/blender-softwaregl /bin/blender
+: 1596085490:0;blender
+: 1596085740:0;chrome
+: 1596085744:0;./chrome
+: 1596085876:0;ls /bim | grep blender
+: 1596085882:0;ls /bin | grep blender
+: 1596085945:0;chmod rwx /bin/blender
+: 1596086015:0;chmod 755 /bin/blender
+: 1596086020:0;ls /bin | grep blender
+: 1596086032:0;ls /bin
+: 1596086048:0;ls /bin | grep blender
+: 1596086069:0;chmod 777 /bin/blender
+: 1596086072:0;ls /bin | grep blender
+: 1596086080:0;sudo] blender
+: 1596086085:0;sudo blender
+: 1596086421:0;/opt/blender/blender-softwaregl
+: 1596086469:0;dirname
+: 1596086480:0;dirname --help
+: 1596086512:0;dirname "$0"
+: 1596086571:0;/opt/blender/blender-softwaregl
+: 1596086744:0;clear
+: 1596086758:0;xkill
+: 1596086867:0;vim /opt/blender/blender-softwaregl
+: 1596086949:0;/opt/blender/blender-softwaregl
+: 1597179824:0;sudo apt update
+: 1597179864:0;apt list --upgradable | less
+: 1597179962:0;sudo apt upgrade
+: 1597180017:0;sudo apt update
+: 1597180034:0;sudo apt upgrade
+: 1597180064:0;sudo apt upgrade --fix-missing
+: 1597180538:0;sudo apt upgrade
+: 1597180564:0;sudo apt autoremove
+: 1597180764:0;sudo -E flatpak run org.linux_hardware.hw-probe -all -upload
+: 1597183768:0;sudo reboot
+: 1597189357:0;sudo apt update
+: 1597189380:0;sudo apt upgrade
+: 1597189456:0;sudo reboot
+: 1597257630:0;sudo apt update
+: 1597257652:0;sudo apt upgrade
+: 1597492145:0;sudo apt update
+: 1597766339:0;apt list --upgradable
+: 1597767273:0;sudo apt upgrade
+: 1597767297:0;sudo apt update
+: 1597767334:0;sudo apt upgrade
+: 1597767348:0;sudo apt upgrade --fix-missing
+: 1597767405:0;sudo apt update
+: 1597767422:0;sudo apt upgrade --fix-missing
+: 1597768010:0;screenfetch
+: 1597782579:0;sudo flatpak update
+: 1597782839:0;sudo reboot
+: 1598645476:0;sudo apt update
+: 1598645528:0;apt list --upgradable
+: 1598645617:0;sudo apt upgrade --fix-missing
+: 1598733172:0;sudo apt update
+: 1598733193:0;sudo apt upgrade --fix-missing
+: 1599102295:0;sudo apt update
+: 1599102327:0;apt list --upgradable
+: 1599102341:0;sudo apt upgrade --fix-missing
+: 1599407779:0;sudo apt update
+: 1599407808:0;apt list --upgradable
+: 1599407834:0;sudo apt upgrade --fix-missing
+: 1599411337:0;curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+: 1599411519:0;source $HOME/.cargo/env
+: 1599412182:0;sudo reboot
+: 1599412351:0;alsamixer
+: 1599412584:0;rustup --help
+: 1599412620:0;rustup update
+: 1599412654:0;rustup show
+: 1599412678:0;rustup --version
+: 1599412733:0;cargo --version
+: 1599412744:0;cargo --help
+: 1599428529:0;cargo check ./main.rs
+: 1599428557:0;cargo --help
+: 1599428593:0;cargo run ./main.rs
+: 1599428890:0;cargo check
+: 1599429540:0;cargo --help
+: 1599429580:0;cargo init
+: 1599429668:0;cargo run
+: 1599429771:0;cargo build
+: 1599429956:0;./rust
+: 1599430455:0;sudo apt update
+: 1599436873:0;sudo apt install ./Downloads/Minecraft.deb
+: 1599440556:0;java ./OptiFine_1.16.2_HD_U_G3.jar
+: 1599440578:0;./OptiFine_1.16.2_HD_U_G3.jar
+: 1599440587:0;sudo ./OptiFine_1.16.2_HD_U_G3.jar
+: 1599440599:0;sudo java ./OptiFine_1.16.2_HD_U_G3.jar
+: 1599441012:0;]java ./OptiFine_1.16.2_HD_U_G3.jar
+: 1599441017:0;java ./OptiFine_1.16.2_HD_U_G3.jar
+: 1599441060:0;java --help
+: 1599441068:0;java --help | less
+: 1599441092:0;java -jar ./OptiFine_1.16.2_HD_U_G3.jar
+: 1599512388:0;java -jar ./OptiFine_1.8.9_HD_U_L5.jar
+: 1599513451:0;sudo apt install openjdk-8-jre
+: 1599513649:0;apt search jre | less
+: 1599513769:0;sudo apt install nvidia-openjdk-8-jre
+: 1599541217:0;sudo apt install ~/Downloads/multimc_1.4-1.deb
+: 1599681778:0;feh .minecraft/screenshots/2020-09-06_23.01.48.png
+: 1599681795:0;feh .minecraft/screenshots/*
+: 1599703918:0;sudo apt update
+: 1599703949:0;apt list --upgradable
+: 1599703962:0;sudo apt upgrade
+: 1599834549:0;sudo apt install ~/Downloads/logmein-hamachi_2.1.0.203-1_amd64.deb
+: 1599836337:0;cd code
+: 1599836348:0;git clone https://github.com/meLuiiiz/uchat.git
+: 1599836362:0;cd uchat
+: 1599836384:0;yarn
+: 1599836404:0;cd
+: 1599836407:0;ls
+: 1599836418:0;cd code/uchat
+: 1599836424:0;ls
+: 1599836473:0;git branch verified-send
+: 1599836497:0;git show-branch
+: 1599836509:0;git branch verified-send
+: 1599836521:0;git switch verified-send
+: 1599836558:0;git --help
+: 1599836607:0;git checkout verified-send
+: 1599836613:0;clear
+: 1599836654:0;ls
+: 1599836682:0;code .
+: 1599836709:0;yarn start
+: 1599840127:0;sudo apt install ~/Downloads/codium_1.49.0-1599765798_amd64.deb
+: 1599840761:0;sudo apt purge code
+: 1599840815:0;sudo apt update
+: 1599841820:0;cd code/uchat
+: 1599841829:0;yarn start
+: 1599843414:0;cat Downloads/done-black-18dp.svg
+: 1599843539:0;cat Downloads/schedule-black-18dp.svg
+: 1599847037:0;cd code/uchat
+: 1599847221:0;vim public/js/chat.js
+: 1599847332:0;cd code/uchat
+: 1599847342:0;cd server.js
+: 1599847349:0;vim server.js
+: 1599847488:0;clear
+: 1599847494:0;yarn start
+: 1599847582:0;vim public/js/chat.js
+: 1599847638:0;cd server.js
+: 1599847639:0;vim public/js/chat.js
+: 1599847720:0;vim server.js
+: 1599847880:0;yarn start
+: 1599848092:0;git checkout master
+: 1599848102:0;cd code/uchat
+: 1599848105:0;git checkout master
+: 1599848120:0;git pull
+: 1599848163:0;git status
+: 1599848209:0;git branch
+: 1599848260:0;git checkout verified-send
+: 1599848281:0;git add .
+: 1599848318:0;git commit -a -m "verified sended"
+: 1599848328:0;git status
+: 1599848338:0;git checkout master
+: 1599848349:0;git pull
+: 1599848484:0;git reset --hard commit_sha
+: 1599848509:0;git revert HEAD -m 1
+: 1599848529:0;git show
+: 1599848696:0;git checkout master
+: 1599848703:0;cd code/uchat
+: 1599848704:0;git checkout master
+: 1599848717:0;yarn start
+: 1599848760:0;ls
+: 1599848773:0;vim server.js
+: 1599848811:0;vim public/js/chat.js
+: 1599848929:0;cd code/uchat
+: 1599848932:0;git checkout master
+: 1599848948:0;git checkout verified-send
+: 1599848953:0;vim public/js/chat.js
+: 1599849194:0;codium
+: 1599849554:0;cd code/uchat
+: 1599849557:0;yarn start
+: 1599849793:0;cd code/uchat
+: 1599849795:0;yarn start
+: 1599850046:0;git checkout master
+: 1599850100:0;yarn start
+: 1599850113:0;git checkout master
+: 1599850121:0;yarn start
+: 1599850363:0;git push origin master
+: 1599850561:0;cd .git
+: 1599850565:0;ls
+: 1599850575:0;vim config
+: 1599850599:0;git push origin master
+: 1599850639:0;vim config
+: 1599850732:0;ssh -T git@github.com
+: 1599850803:0;ls -al ~/.ssh
+: 1599850878:0;ssh -vT git@github.com
+: 1599850958:0;eval "$(ssh-agent -s)"
+: 1599850975:0;ssh-add -l -E md5
+: 1599850988:0;ssh-add -l
+: 1599851126:0;ssh-keygen -t rsa -b 4096 -C "pedromendescraft@gmail.com"
+: 1599851227:0;eval "$(ssh-agent -s)"
+: 1599851271:0;sudo apt-get install xclip
+: 1599851290:0;xclip -sel clip < ~/.ssh/id_rsa.pub
+: 1599851389:0;cd ..
+: 1599851394:0;git push origin master
+: 1599851430:0;git config
+: 1599851445:0;git config get-all
+: 1599851452:0;git config --get-all
+: 1599851514:0;git config -l
+: 1599851568:0;git push origin master
+: 1599851961:0;cd ~
+: 1599851968:0;cd .rsa
+: 1599851991:0;cd ~/.ssh
+: 1599851999:0;ls
+: 1599852015:0;cd config
+: 1599852020:0;cat config
+: 1599852047:0;cat known_hosts
+: 1599852055:0;vim known_hosts
+: 1599852087:0;rm .ssh
+: 1599852092:0;rm -r .ssh
+: 1599852199:0;ssh-keygen -t rsa -b 4096 -C "pedromendescraft@gmail.com"
+: 1599852246:0;eval "$(ssh-agent -s)"
+: 1599852260:0;ssh-add ~/.ssh/id_rsa
+: 1599852284:0;xclip -sel clip < ~/.ssh/id_rsa.pub
+: 1599852428:0;ssh -T git@github.com
+: 1599852523:0;cd code/uchat
+: 1599852531:0;git push origin master
+: 1599852625:0;cd ../1mcc
+: 1599852629:0;git push origin master
+: 1599852653:0;cd ../uchat
+: 1599853014:0;cd ../..
+: 1599853019:0;cd code
+: 1599853026:0;rm uchat
+: 1599853031:0;rm -r uchat
+: 1599853056:0;sudo rm -r uchat
+: 1599853063:0;clear
+: 1599853109:0;git clone git@github.com:meLuiiiz/uchat.git
+: 1599853188:0;git branch verified-send
+: 1599853199:0;cd uchat
+: 1599853203:0;git branch verified-send
+: 1599853214:0;git checkout master
+: 1599853221:0;git checkout verified-send
+: 1599853279:0;git branch -r verified-send
+: 1599853297:0;git checkout -r verified-send
+: 1599853357:0;git branch -d verified-send
+: 1599853380:0;git checkout master
+: 1599853382:0;git branch -d verified-send
+: 1599853388:0;cler
+: 1599853390:0;clear
+: 1599869184:0;hamachi
+: 1599869193:0;sudo hamachi
+: 1599869261:0;apt search hamachi | less
+: 1599869290:0;logmein-hamachi
+: 1599869927:0;sudo apt install hamaguichi
+: 1599869959:0;apt search hamaguichi | less
+: 1599869970:0;clear
+: 1599870039:0;sudo apt install haguichi
+: 1599870059:0;sudo apt update
+: 1599870464:0;sudo add-apt-repository -y ppa:webupd8team/haguichi
+: 1599870500:0;clear
+: 1599870517:0;sudo sh -c 'echo "deb http://ppa.launchpad.net/webupd8team/haguichi/ubuntu bionic main" > /etc/apt/sources.list.d/haguichi.list'
+: 1599870538:0;sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C2518248EEA14886
+: 1599870554:0;sudo apt update
+: 1599870582:0;sudo apt install -y haguichi
+: 1599921542:0;cd ./Minecraft\ \(ALL\ VERSIONS\)\ Cracked\ Launcher\ \[AUTO-UPDATES\]
+: 1599921559:0;java -jar ./KeiNettLauncher.jar
+: 1599921817:0;cd ..
+: 1599921820:0;ls
+: 1599921888:0;zip ./ShiginimaSE_v4400.zip
+: 1599921896:0;unzip ./ShiginimaSE_v4400.zip
+: 1599921900:0;ls
+: 1599921918:0;nautilus .
+: 1599921998:0;clear
+: 1599922010:0;cd ./linux_osx
+: 1599922012:0;ls
+: 1599922030:0;java -jar ./Shiginima\ Launcher\ SE.v4400.jar
+: 1600014701:0;vim ~/.config/i3/config
+: 1600016095:0;cargo run
+: 1600018696:0;cargo run]
+: 1600018698:0;cargo run
+: 1600019160:0;clear
+: 1600019161:0;cargo run
+: 1600021225:0;sudo apt install -y glade
+: 1600021373:0;glade
+: 1600029143:0;sudo apt install -y gtk
+: 1600029162:0;sudo apt install -y GTK
+: 1600029175:0;sudo apt install -y GTK3
+: 1600029329:0;cargo check
+: 1600031116:0;cd code/rust
+: 1600031126:0;cargo check
+: 1600035078:0;cd code/rust
+: 1600035082:0;cargo check
+: 1600036498:0;cd ..
+: 1600036585:0;git clone git@github.com:gtk-rs/examples
+: 1600036612:0;cd examples
+: 1600036616:0;ls
+: 1600036730:0;cargo run --all-features --bin builder_basics
+: 1600039828:0;cat ../examples/src/bin/builder_basics.glade
+: 1600040481:0;cd ../rust
+: 1600040492:0;cargo run
+: 1600041596:0;target/debug/calculadora
+: 1600041929:0;cargo run
+: 1600042878:0;target/debug/calculadora
+: 1600043743:0;cargo run
+: 1600047817:0;cd ../examples
+: 1600047869:0;cargo run --all-features --bin drag_and_drop_textview
+: 1600048204:0;cd ../rust
+: 1600048209:0;cargo run
+: 1600053924:0;rustc --explain E0308
+: 1600100167:0;cargo run
+: 1600102957:0;clear
+: 1600102960:0;cargo run
+: 1600108172:0;clear
+: 1600108175:0;cargo run
+: 1600108294:0;clear
+: 1600108296:0;cargo run
+: 1600108478:0;clear
+: 1600108479:0;cargo run
+: 1600109611:0;clear
+: 1600109613:0;cargo run
+: 1600111578:0;clear
+: 1600111581:0;cargo run
+: 1600112468:0;target/debug/calculadora
+: 1600131537:0;cd code/rust
+: 1600131560:0;target/debug/calculadora
+: 1600132485:0;cd code/rust
+: 1600132490:0;cargo run
+: 1600132736:0;sudo apt update
+: 1600132947:0;clear
+: 1600133082:0;htop
+: 1600133268:0;apt search software-propetiers-gtk
+: 1600133276:0;apt search software
+: 1600133285:0;apt search software | less
+: 1600133440:0;sudo software-properties-gtk
+: 1600133509:0;sudo apt update
+: 1600139024:0;vim
+: 1600140652:0;mv tom code/rust
+: 1600198794:0;rustup --help
+: 1600198805:0;rustup check
+: 1600200624:0;ping google.com
+: 1600204181:0;cd code/rust
+: 1600204185:0;target/debug/calculadora
+: 1600219671:0;clear
+: 1600226235:0;cargo run
+: 1600226403:0;rustc --explain E0382~
+: 1600226411:0;rustc --explain E0382
+: 1600226508:0;cargo run
+: 1600228769:0;target/debug/calculadora
+: 1600229871:0;cargo run
+: 1600231663:0;cd ..
+: 1600231677:0;mv rust calculadora
+: 1600271839:0;cargo run
+: 1600272789:0;clear
+: 1600272790:0;cargo run
+: 1600272897:0;clear
+: 1600272939:0;cargo run
+: 1600273065:0;clear
+: 1600273066:0;cargo run
+: 1600273355:0;clear
+: 1600273356:0;cargo run
+: 1600273767:0;clear
+: 1600273769:0;cargo run
+: 1600273816:0;clear
+: 1600273818:0;cargo run
+: 1600274089:0;clear
+: 1600274091:0;cargo run
+: 1600274169:0;claer
+: 1600274173:0;clear
+: 1600274199:0;cargo run
+: 1600286398:0;cargo doc
+: 1600289006:0;cd ../examples
+: 1600289026:0;cargo run --all-features --bin notebook
+: 1600303621:0;cargo run
+: 1600307391:0;clear
+: 1600307399:0;cargo run
+: 1600307447:0;clear
+: 1600307453:0;cargo run
+: 1600307501:0;claer
+: 1600307504:0;clear
+: 1600307506:0;cargo run
+: 1600307544:0;claer
+: 1600307546:0;clear
+: 1600307550:0;cargo run
+: 1600307619:0;clear
+: 1600307620:0;cargo run
+: 1600308573:0;clear
+: 1600308575:0;cargo run
+: 1600308623:0;clear
+: 1600308624:0;cargo run
+: 1600309251:0;clear
+: 1600309254:0;cd ../examples
+: 1600309284:0;cargo run --all-features --bin communication_thread
+: 1600310098:0;cd ../calculadora
+: 1600310106:0;clear
+: 1600310110:0;cargo run
+: 1600310147:0;clear
+: 1600310148:0;cargo run
+: 1600311812:0;clear
+: 1600311814:0;cargo run
+: 1600377149:0;htop
+: 1600379145:0;apt search seahorse | less
+: 1600379190:0;sudo apt --purge seahorse
+: 1600379201:0;sudo apt -purge seahorse
+: 1600379207:0;sudo apt purge seahorse
+: 1600379256:0;clear
+: 1600381701:0;cd code/1mcc
+: 1600391403:0;cargo run
+: 1600399652:0;cd code/calculadora
+: 1600399665:0;cargo run
+: 1600400579:0;cd code/calculadora
+: 1600400586:0;ls ui
+: 1600400623:0;cat ./ui/gtk3.glade | less
+: 1600401620:0;cd code/calculadora
+: 1600401623:0;cat ./ui/gtk3.glade | less
+: 1600401956:0;sudo apt purge xaudio
+: 1600403259:0;sudo apt update
+: 1600403295:0;apt list --upgradable
+: 1600403312:0;sudo apt upgrade
+: 1600403716:0;apt list --upgradable
+: 1600403724:0;sudo apt upgrade
+: 1600406067:0;cd code/calculadora
+: 1600406071:0;target/debug/calculadora
+: 1600406234:0;cd code/calculadora
+: 1600406237:0;target/debug/calculadora
+: 1600406842:0;sudo apt upgrade
+: 1600406858:0;sudo apt update
+: 1600406899:0;sudo snap update
+: 1600406911:0;sudo snap help
+: 1600407261:0;sudo flatpak update
+: 1600440545:0;sudo mv ~/Downloads/VSCodium-linux-x64-1.49.1/* /usr/share/codium
+: 1600440620:0;sudo mv ~/Downloads/VSCodium-linux-x64-1.49.1/ /usr/share/codium
+: 1600440823:0;sudo nautilus
+: 1600440863:0;su -
+: 1600440880:0;sudo nautilus
+: 1600440892:0;nautilus
+: 1600440916:0;sudo nautilus
+: 1600441177:0;cd code/calculadora
+: 1600441196:0;sudo target/debug/calculadora
+: 1600441623:0;cd code/calculadora
+: 1600441630:0;sudo target/debug/calculadora
+: 1600441677:0;sudo nautilus
+: 1600442849:0;cargo remove docs
+: 1600442862:0;cargo docs remove
+: 1600442868:0;cargo doc remove
+: 1600442883:0;cargo doc --help
+: 1600442980:0;clear
+: 1600447614:0;cd code/calculadora
+: 1600447618:0;target/debug/calculadora
+: 1600462882:0;cd code/calculadora
+: 1600462891:0;cargo run
+: 1600464156:0;cargo check
+: 1600466203:0;cargo run
+: 1600466684:0;clear
+: 1600466687:0;cargo run
+: 1600533920:0;sudo apt install rofi~
+: 1600533926:0;sudo apt install rofi
+: 1600533983:0;rofi
+: 1600534000:0;rofi -show
+: 1600534167:0;rofi -show run
+: 1600534229:0;rofi -show keys
+: 1600534336:0;rofi -show drun
+: 1600534435:0;rofi -show -theme dmenu drun
+: 1600534464:0;rofi -help
+: 1600534475:0;rofi -help | less
+: 1600534644:0;rofi -theme dmenu -show drun
+: 1600534691:0;rofi -theme dmenu -show run
+: 1600534944:0;clear
+: 1600535393:0;rofi dmenu -show theme
+: 1600535858:0;rofi-theme-selector
+: 1600536123:0;echo $XDG_DATA_HOME
+: 1600536436:0;sudo vim /usr/share/rofi/themes/slate.rasi
+: 1600536660:0;vim ~/.config/i3/config
+: 1600537192:0;rofi -show drun
+: 1600537220:0;rofi -help | less
+: 1600537266:0;rofi -modi drun
+: 1600537281:0;rofi modi drun
+: 1600537293:0;rofi -help | less
+: 1600537351:0;rofi -modi window,run,drun
+: 1600537376:0;rofi -modi window,run,drun --show drun
+: 1600537615:0;rofi -modi drun --show drun
+: 1600537634:0;rofi -modi drun -show drun
+: 1600537649:0;vim ~/.config/i3/config
+: 1600538719:0;cat /usr/share/rofi/themes/dmenu.rasi | less
+: 1600540699:0;clear
+: 1600540732:0;sudo vim /usr/share/rofi/themes/slate.rasi
+: 1600541522:0;cat /usr/share/rofi/themes/dmenu.rasi | less
+: 1600543297:0;cd code
+: 1600543298:0;ls
+: 1600546589:0;cd calculadora
+: 1600546594:0;git remote add origin git@github.com:alt-art/calculadora.git
+: 1600546605:0;git branch -M master
+: 1600546629:0;git push -u origin master
+: 1600546661:0;ls
+: 1600546695:0;git add ui
+: 1600546714:0;git commit -m "Ui"
+: 1600546737:0;rm tom
+: 1600546763:0;git add main.rs
+: 1600546779:0;git commit -m "Main"
+: 1600546798:0;git status
+: 1600546822:0;git add .gitignore
+: 1600546875:0;git commit -m "Ignore target."
+: 1600546898:0;git add .
+: 1600546915:0;git commit -m "Cargo"
+: 1600554540:0;vim ~/.config/i3/config]
+: 1600554548:0;vim ~/.config/i3/config
+: 1600554725:0;sudo vim /usr/share/rofi/themes/slate.rasi
+: 1600578559:0;'/home/altart/Downloads/Colorpicker_2.0.3.AppImage' 
+: 1600578575:0;sudo '/home/altart/Downloads/Colorpicker_2.0.3.AppImage' 
+: 1600578616:0;./Colorpicker_2.0.3.AppImage
+: 1600578631:0;chmod +x ./Colorpicker_2.0.3.AppImage
+: 1600578637:0;./Colorpicker_2.0.3.AppImage
+: 1600578689:0;nautilus
+: 1600578893:0;htop
+: 1600579023:0;sudo vim /usr/share/rofi/themes/slate.rasi
+: 1600598402:0;sudo apt update
+: 1600598436:0;sudo flatpak update
+: 1600599965:0;cargo run
+: 1600610186:0;git add main.rs
+: 1600610270:0;git commit -m "Add Buttons expressions delimiter"
+: 1600610280:0;git add .
+: 1600610325:0;git commit -m "Add crate meval"
+: 1600610933:0;cargo run
+: 1600611338:0;target/debug/calculadora
+: 1600612252:0;cargo run
+: 1600615585:0;git add main.rs
+: 1600615667:0;git commit -m "Add meval paser and replace buttons characters"
+: 1600615686:0;git add ui
+: 1600615696:0;git add ui/*
+: 1600615707:0;clear
+: 1600615746:0;git commit -m "Replace buttons characters"
+: 1600615810:0;git add .
+: 1600615872:0;cargo run
+: 1600616284:0;git add Cargo.toml
+: 1600616336:0;git commit -m "Move main.rs to src"
+: 1600616398:0;git add .
+: 1600616422:0;git commit -m "Move ui to src"
+: 1600616467:0;git push -u origin master
+: 1600616544:0;git pull
+: 1600616565:0;git push -u origin master
+: 1600616588:0;git pull origin master
+: 1600616598:0;git push -u origin master
+: 1600616961:0;git branch -M master
+: 1600616982:0;git push -u origin master
+: 1600617072:0;clear
+: 1600618889:0;target/debug/calculadora
+: 1600619118:0;git add ui
+: 1600619139:0;git add src/ui
+: 1600619161:0;git commit -m "Desings changes."
+: 1600619169:0;git push
+: 1600619191:0;git push -u origin master
+: 1600619203:0;git pull
+: 1600619497:0;git status
+: 1600619512:0;git show
+: 1600619607:0;git show --minimal
+: 1600619621:0;git push
+: 1600620297:0;rofi -show window
+: 1600625344:0;cd code/calculadora
+: 1600625352:0;cargo run
+: 1600631581:0;scrot --help
+: 1600631596:0;scrot --help | less
+: 1600631644:0;scrot -s
+: 1600631661:0;ls
+: 1600631674:0;feh ./2020-09-20-165412_670x726_scrot.png
+: 1600631694:0;cd ~
+: 1600631697:0;feh ./2020-09-20-165412_670x726_scrot.png
+: 1600631710:0;rm 2020-09-20-165412_670x726_scrot.png
+: 1600631713:0;clear
+: 1600631782:0;cd Downloads
+: 1600631785:0;ls
+: 1600631800:0;feh pin.png
+: 1600631846:0;scrot -s
+: 1600631910:0;rofi -show run
+: 1600631951:0;rm *.png
+: 1600631954:0;ls
+: 1600631967:0;feh .
+: 1600631989:0;clear
+: 1600660975:0;cargo build
+: 1600706700:0;sudo apt update
+: 1600706765:0;clear
+: 1600706870:0;cd /etc/apt/
+: 1600706872:0;ls
+: 1600706902:0;vim sources.list
+: 1600707084:0;sudo vim sources.list
+: 1600707138:0;clear
+: 1600707144:0;sudo ap
+: 1600707147:0;sudo apt update
+: 1600707199:0;sudo apt upgrade
+: 1600710444:0;sudo apt linux-headers-5.8.0-1-amd64
+: 1600710457:0;su -
+: 1600713280:0;cd Downloads/i3-4.18.2
+: 1600713308:0;autoreconf --force --install
+: 1600713351:0;rm -rf build/
+: 1600713361:0;mkdir -p build && cd build/
+: 1600713389:0;../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
+: 1600713452:0;make
+: 1600713537:0;sudo make install
+: 1600713551:0;su -
+: 1600713767:0;sudo make install
+: 1600713798:0;cd ../..
+: 1600713812:0;rm i3-4.18.2
+: 1600713816:0;rm -r i3-4.18.2
+: 1600713891:0;sudo apt update
+: 1600713915:0;apt list --upgradable
+: 1600713934:0;apt list --upgradable | less
+: 1600714424:0;sudo apt upgrade
+: 1600714526:0;sudo apt update
+: 1600714540:0;sudo apt upgrade
+: 1600714554:0;sudo apt autoremove
+: 1600714707:0;clear
+: 1600714716:0;sudo apt upgrade | less
+: 1600714773:0;sudo apt upgrade
+: 1600714796:0;sudo apt update
+: 1600714809:0;sudo apt upgrade
+: 1600714821:0;sudo apt -y upgrade
+: 1600715530:0;sudo apt update
+: 1600715571:0;sudo apt upgrade
+: 1600715998:0;sudo flatpak update
+: 1600716034:0;apt list --upgradable | less
+: 1600716302:0;cd code/calculadora
+: 1600716305:0;target/debug/calculadora
+: 1600716774:0;sudo apt upgrade
+: 1600716818:0;sudo apt remove tilix
+: 1600716884:0;sudo apt autoremove
+: 1600716923:0;sudo apt update
+: 1600716974:0;sudo apt install tilix
