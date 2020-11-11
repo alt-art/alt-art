@@ -1,4 +1,4 @@
-[![alt-art's github stats](https://github-readme-stats.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula&locale=pt)](https://github.com/alt-art)
+[![alt-art's github stats](https://github-readme-stats.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula)](https://github.com/alt-art)
 
 <!--
 **alt-art/alt-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
