@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>alt-art</h3>
-  <h1>Pedro Henrique Mendes</h1>
+  <h3><a href="https://www.linkedin.com/in/altart/">alt-art</a></h3>
+  <h1><a href="https://www.linkedin.com/in/altart/">Pedro Henrique Mendes</a></h1>
   
   ```
   Currently studying Web Development at Trybe
