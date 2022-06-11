@@ -3,7 +3,7 @@
   <h1><a href="https://www.linkedin.com/in/altart/">Pedro Henrique Mendes</a></h1>
   
   ```
-  Currently studying Web Development at Trybe
+  Coding new things
   ```
   
   [![alt-art's github stats](https://github-readme-stats.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula&line_height=20&disable_animations=true)](https://github.com/alt-art)
