@@ -8,5 +8,7 @@
   
   [![alt-art's github stats](https://github-readme-stats.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula&line_height=20&disable_animations=true)](https://github.com/alt-art)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt-art&theme=dracula&layout=compact&disable_animations=true)](https://github.com/alt-art)
-  <img src="https://github-counter.herokuapp.com/count/alt-art"/>
+  <p>
+    <img src="https://github-counter.herokuapp.com/count/alt-art"/>
+  </p>
 </div>
