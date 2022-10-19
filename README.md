@@ -9,5 +9,5 @@
   [![alt-art's github stats](https://github-readme-stats.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula&line_height=20&disable_animations=true)](https://github.com/alt-art)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt-art&theme=dracula&layout=compact&disable_animations=true)](https://github.com/alt-art)
 
-[![Views counter](https://github-counter.herokuapp.com/count/alt-art)](https://github.com/alt-art/github-counter)
+[![Views counter](https://github-counter.herokuapp.com/count/alt-ar)](https://github.com/alt-art/github-counter)
 </div>
