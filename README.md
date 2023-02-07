@@ -6,8 +6,8 @@
   Coding new things
   ```
 
-[![alt-art's github stats](https://github-readme-stats.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula&line_height=20&disable_animations=true)](https://github.com/alt-art)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt-art&theme=dracula&layout=compact&disable_animations=true)](https://github.com/alt-art)
+[![alt-art's github stats](https://github-readme-stats-iota-ebon.vercel.app/api?username=alt-art&count_private=true&show_icons=true&theme=dracula&line_height=20&disable_animations=true)](https://github.com/alt-art)
+[![Top Langs](https://github-readme-stats-iota-ebon.vercel.app/api/top-langs/?username=alt-art&theme=dracula&layout=compact&disable_animations=true)](https://github.com/alt-art)
 
 [![@altart's Holopin board](https://holopin.me/altart)](https://holopin.io/@altart)
 
