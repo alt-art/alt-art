@@ -11,4 +11,6 @@
 
 [![@altart's Holopin board](https://holopin.me/altart)](https://holopin.io/@altart)
 
+
+<a href="https://mynickname.com/id1827255"><img src="https://mynickname.com/img.php?nick=altart&sert=2&text=t4" alt="Nickname altart is registered!" border="0" /></a>
 </div>
